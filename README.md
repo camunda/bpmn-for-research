@@ -6,3 +6,5 @@ These diagrams were created in BPMN training sessions provided by Camunda. At th
 We have released these diagrams so that they can be used for research purposes.
 
 You will find separate folders for the English and German language courses. Within these, you'll find folders for each exercise, with the exercise itself, the results and the solution in separate folders.
+
+Status: *>3700 diagrams*
