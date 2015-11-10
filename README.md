@@ -9,6 +9,6 @@ You will find separate folders for the English and German language courses. With
 
 Status: *>3700 diagrams*
 
-## License
+## Terms of Use
 
-ToDo!
+The content of this repository can be used for academic and research purposes only. It is mandatory that the link to Camunda is kept in all useage scenarios. Commercial use of the content of this repository is not allowed. 
