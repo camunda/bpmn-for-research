@@ -10,9 +10,9 @@ These diagrams were created in BPMN training sessions provided by Camunda. At th
 [Download all diagrams as a ZIP](https://github.com/camunda/bpmn-for-research/archive/master.zip)
 
 ## Structure
-You will find separate folders for the English and German language courses. Within these, you'll find folders for each exercise, with the exercise itself, the results and the solution in separate folders.
+You will find separate folders for the English and German language courses. Within these, you'll find folders for each exercise, with the exercise itself, the results and the solution in separate folders. See the following examples to help guide you through the folder structure:
 
-Example:
+
 English:
 ```
 |- BPMN for Research (folder)
