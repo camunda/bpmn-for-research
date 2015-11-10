@@ -1,13 +1,19 @@
-![Camunda](https://github.com/camunda/bpmn-for-research/blob/master/content/img/camunda_logo.png)
+<a href="http://camunda.org">
+  <img src="/content/img/camunda_logo.png"  style="width:300px;height:53px;border:0;" />
+</a>
 
 # BPMN for research
 A collection of BPMN diagrams that can be used for research purposes.
+
+<a href="https://github.com/camunda/bpmn-for-research/archive/master.zip">
+ <img src="/content/img/download.png" style="width:30px;height:30px;border:0;" /> 
+ Download all diagrams
+</a>
 
 ## Where are these diagrams from and how were they created?
 These diagrams were created in BPMN training sessions provided by Camunda. At the end of the training chapters, the participants completed several excersises. They were presented with a scenario in text form and, based on that, they created BPMN diagrams. There is a model solution that the participants did not see before completing the excersises.
 ![Training](https://github.com/camunda/bpmn-for-research/blob/master/content/img/training-process.png)
 
-[Download all diagrams as a ZIP](https://github.com/camunda/bpmn-for-research/archive/master.zip)
 
 ## Structure
 You will find separate folders for the English and German language courses. Within these, you'll find folders for each exercise, with the exercise itself, the results and the solution in separate folders. See the following examples to help guide you through the folder structure:
@@ -46,6 +52,9 @@ German:
 ```
 
 Status: *>3700 diagrams*
+
+## Tools
+[bpmn.io](http://bpmn.io) - A BPMN 2.0 rendering toolkit and web modeler.
 
 ## Terms of Use
 
