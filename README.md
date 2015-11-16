@@ -55,9 +55,13 @@ Status: *>3700 diagrams*
 
 ## Useful Links
 [bpmn.io](http://bpmn.io) - A BPMN 2.0 rendering toolkit and web modeler.
+
 [BPMN 2.0 Tutorial](https://camunda.org/bpmn/tutorial/) - Get Started with Process Modeling using BPMN.
+
 [BPMN Modeling Reference](https://camunda.org/bpmn/reference/) - All BPMN 2.0 Symbols Explained.
+
 [BPMN Examples](https://camunda.org/bpmn/examples/) - Lot's of BPMN 2.0 Best Practices.
+
 [Jobs at Camunda](http://camunda.com/about/jobs/) - Camunda's Job Opportunities.
 
 ## Terms of Use
