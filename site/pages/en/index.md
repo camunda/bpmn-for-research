@@ -9,14 +9,14 @@ layout: page
 
 A collection of over 3700 BPMN diagrams that can be used for research purposes.
 
-<a href="https://github.com/camunda/bpmn-for-research/archive/master.zip"><img src="img/download.png" style="width:30px;height:30px;border:0;" />Download all diagrams</a>
+<a href="https://github.com/camunda/bpmn-for-research/archive/master.zip"><img src="/img/download.png" style="width:30px;height:30px;border:0;" />Download all diagrams</a>
 
 
 ## Where are these diagrams from and how were they created?
 
 These diagrams were created in [BPMN training](http://camunda.com/bpmn/training/) sessions provided by Camunda. At the end of the training chapters, the participants completed several excersises. They were presented with a scenario in text form and, based on that, they created BPMN diagrams. There is a model solution that the participants did not see before completing the excersises.
 
-<img src="img/training-process.png" alt="Training" title="" />
+<img src="/img/training-process.png" alt="Training" title="" />
 
 
 ## Useful Links

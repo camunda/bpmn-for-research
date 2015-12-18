@@ -6,11 +6,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "copy": "mkdir -p dist && cp -r static/* dist",
     "build": "npm run copy && npm run build:html && npm run build:css",
-    "dev": "npm run copy && concurrent 'npm run watch:css' 'npm run watch:html' 'http-server dist -o'",
+    "dev": "concurrent \"npm run watch:css\" \"npm run watch:html\" \"http-server dist -o\"",
     "build:html": "kartoffeldruck",
     "build:css": "lessc --include-path=node_modules:styles styles/site.less dist/css/site.css",
-    "watch:html": "chokidar '(templates|pages)/**/*.(html|md)' --initial -c 'npm run build:html'",
-    "watch:css": "chokidar 'styles/**/*.less' --initial -c 'npm run build:css'"
+    "watch:html": "chokidar \"(templates|pages)/**/*.(html|md)\" --initial -c \"npm run build:html\"",
+    "watch:css": "chokidar \"styles/**/*.less\" --initial -c \"npm run build:css\""
   },
   "author": "Camunda<http://camunda.com>",
   "devDependencies": {

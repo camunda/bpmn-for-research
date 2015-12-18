@@ -13,7 +13,10 @@ This process happens at a small hardware company that ships small amounts of goo
 
 ## Model solution
 
+<img src="/img/dispatch-of-goods-model-solution.PNG">
 
 ## Training results
 
-<a href="/site/static/01-Dispatch-of-goods.zip"><img src="img/download.png" style="width:30px;height:30px;border:0;" />Download all results of this exercise</a>
+<img src="/img/dispatch-of-goods-result-1.PNG"> <img src="/img/dispatch-of-goods-result-2.PNG"> <img src="/img/dispatch-of-goods-result-3.PNG">
+
+<a href="/site/static/01-Dispatch-of-goods.zip"><img src="/img/download.png" style="width:30px;height:30px;border:0;" />Download all results of this exercise</a>
