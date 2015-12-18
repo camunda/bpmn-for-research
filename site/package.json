@@ -1,0 +1,26 @@
+{
+  "name": "site",
+  "version": "0.0.1",
+  "description": "BPMN for Research site sources",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "copy": "mkdir -p dist && cp -r static/* dist",
+    "build": "npm run copy && npm run build:html && npm run build:css",
+    "dev": "npm run copy && concurrent 'npm run watch:css' 'npm run watch:html' 'http-server dist -o'",
+    "build:html": "kartoffeldruck",
+    "build:css": "lessc --include-path=node_modules:styles styles/site.less dist/css/site.css",
+    "watch:html": "chokidar '(templates|pages)/**/*.(html|md)' --initial -c 'npm run build:html'",
+    "watch:css": "chokidar 'styles/**/*.less' --initial -c 'npm run build:css'"
+  },
+  "author": "Camunda<http://camunda.com>",
+  "devDependencies": {
+    "bootstrap": "^3.3.6",
+    "chokidar-cli": "^1.2.0",
+    "concurrently": "^1.0.0",
+    "glob": "^6.0.1",
+    "http-server": "^0.8.5",
+    "kartoffeldruck": "^0.2.4",
+    "less": "^2.5.3",
+    "lodash": "^3.10.1"
+  }
+}
