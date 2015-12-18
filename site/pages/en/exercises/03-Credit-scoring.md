@@ -19,6 +19,4 @@ A credit protection agency (in Germany called „Schufa“) allows customers to 
 
 ## Training results
 
-<p>
-  <a href="/site/static/03-Credit-scoring.zip"><img src="img/download.png" style="width:30px;height:30px;border:0;" />Download all results of this exercise</a>
-</p>
+<a href="/site/static/03-Credit-scoring.zip"><img src="img/download.png" style="width:30px;height:30px;border:0;" />Download all results of this exercise</a>

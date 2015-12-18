@@ -21,6 +21,4 @@ A self-service restaurant is under chaotic conditions. Guests place their order 
 
 ## Training results
 
-<p>
-  <a href="/site/static/04-Self-service-restaurant.zip"><img src="img/download.png" style="width:30px;height:30px;border:0;" />Download all results of this exercise</a>
-</p>
+<a href="/site/static/04-Self-service-restaurant.zip"><img src="img/download.png" style="width:30px;height:30px;border:0;" />Download all results of this exercise</a>

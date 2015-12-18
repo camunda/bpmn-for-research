@@ -15,6 +15,4 @@ Insurants can be forced to pay back money they received from the insurance compa
 
 ## Training results
 
-<p>
-  <a href="/site/static/02-recourse.zip"><img src="img/download.png" style="width:30px;height:30px;border:0;" />Download all results of this exercise</a>
-</p>
+<a href="/site/static/02-recourse.zip"><img src="img/download.png" style="width:30px;height:30px;border:0;" />Download all results of this exercise</a>

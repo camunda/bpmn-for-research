@@ -10,11 +10,10 @@ If everything is ready, the packaged goods are prepared for being picked up by t
 *Background*
 This process happens at a small hardware company that ships small amounts of goods to end customers but as well big amounts to other shops.
 
+
 ## Model solution
 
 
 ## Training results
 
-<p>
-  <a href="/site/static/01-Dispatch-of-goods.zip"><img src="img/download.png" style="width:30px;height:30px;border:0;" />Download all results of this exercise</a>
-</p>
+<a href="/site/static/01-Dispatch-of-goods.zip"><img src="img/download.png" style="width:30px;height:30px;border:0;" />Download all results of this exercise</a>
