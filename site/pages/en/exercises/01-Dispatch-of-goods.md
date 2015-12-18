@@ -12,8 +12,9 @@ This process happens at a small hardware company that ships small amounts of goo
 
 ## Model solution
 
+
 ## Training results
 
 <p>
-  <a href="/site/static/01-Dispatch-of-goods.zip"><img src="img/download.png" style="width:30px;height:30px;border:0;" />Download all diagrams</a>
+  <a href="/site/static/01-Dispatch-of-goods.zip"><img src="img/download.png" style="width:30px;height:30px;border:0;" />Download all results of this exercise</a>
 </p>
