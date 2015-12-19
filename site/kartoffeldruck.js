@@ -49,8 +49,6 @@ module.exports = function(druck) {
 
         var name = p.shortName = getExerciseName(p);
 
-        console.log(name);
-
         var resultsDir = languages[lang].results.replace(/\:name/, name),
             solutionDir = languages[lang].solution.replace(/\:name/, name);
 
